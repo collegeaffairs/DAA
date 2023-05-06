@@ -1,7 +1,7 @@
 # DAA
 
 1. i. Implement Insertion Sort (The program should report the number of comparisons)
-  ii. Implement Merge Sort (The program should report the number of comparisons)
+   ii. Implement Merge Sort (The program should report the number of comparisons)
 2. Implement Heap Sort(The program should report the number of comparisons)
 3. Implement Randomized Quick sort (The program should report the number of
 comparisons)
